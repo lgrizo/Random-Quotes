@@ -6,7 +6,8 @@ body {
     margin-top: 100px;
     width: 95%;
     height: 70vh;
-    display: flex
+    display: flex;
+    text-align: center;
 }
 
 .generate-button {
